@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    color: indigo;
+    line-height: 0;
+    font-family:'Franklin Gothic Medium';
+}
+
+.links {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.left-links {
+    float: left;
+    width: 50%;
+}
+
+.right-links {
+    float: right;
+    width: 50%;
+}
+
+.geico{
+    text-align: center;
+    line-height: 0;
+}
+
+p{
+    font-size: small;
+}
+
+footer{
+    font-size: small;
+} 
